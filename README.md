@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Zak 👋
+Aspiring software engineer focused on iOS apps, Java development, and backend systems.
 
-<!--
-**Zak-Sheikh/Zak-Sheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tools & Languages
+Java | Python | Swift | SwiftUI | Xcode | HTML | Git | MySQL | SQLite
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [GymBros App](https://github.com/zaksheikh/gymbros-app)  
+  Native iOS app that lets users browse and save gym workouts by tapping on a body diagram. Built with Swift and SwiftUI. Includes workout detail views, persistent saved workouts, and swipe-to-delete.
+
+- [Book Word Counter](https://github.com/zaksheikh/book-word-counter)  
+  Java desktop GUI application that reads a `.txt` file and counts word frequencies. Includes sorting logic, Swing interface, and formatted output saved to a file.
+
+## 📫 Contact
+- Email: zaksheikh45@gmail.com  
+- LinkedIn: [linkedin.com/in/zak-sheikh](https://linkedin.com/in/zak-sheikh-1535412aa)
+
+
