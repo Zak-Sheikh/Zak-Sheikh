@@ -13,7 +13,7 @@ Java | Python | Swift | SwiftUI | Xcode | HTML | Git | MySQL | SQLite
   Java desktop GUI application that reads a `.txt` file and counts word frequencies. Includes sorting logic, Swing interface, and formatted output saved to a file.
 
 ## 📫 Contact
-- Email: zaksheikh45@gmail.com  
-- LinkedIn: [linkedin.com/in/zak-sheikh](https://linkedin.com/in/zak-sheikh-1535412aa)
+- 📧 Email: zaksheikh45@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/zak-sheikh](https://linkedin.com/in/zak-sheikh-1535412aa)
 
 
