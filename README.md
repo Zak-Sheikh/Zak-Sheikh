@@ -32,6 +32,14 @@ I enjoy taking projects from concept to deployment, with a focus on **user exper
 
 ---
 
+## 🏆 Notable Achievements  
+- 🚀 **Deployed** multiple fully functional projects to production using modern dev tools & GitHub Pages.  
+- 📱 **Designed & launched** a native iOS fitness app with persistent storage and an interactive UI.  
+- 🌐 **Built & optimized** a marketing website for a housing services business, improving accessibility, mobile performance, and SEO.  
+- 💡 Recognized for creating **user-friendly interfaces** and **efficient backend solutions** that balance performance with maintainability.
+
+---
+
 ## 🎯 Career Goals  
 - Land an **entry-level software engineering** or **backend development** role.  
 - Continue building **portfolio projects** that combine backend logic with clean, intuitive frontends.  
@@ -42,4 +50,3 @@ I enjoy taking projects from concept to deployment, with a focus on **user exper
 ## 📫 Contact  
 - 📧 **Email:** zaksheikh45@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/zak-sheikh](https://linkedin.com/in/zak-sheikh-1535412aa)  
-
