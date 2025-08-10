@@ -6,9 +6,15 @@ I enjoy taking projects from concept to deployment, with a focus on **user exper
 ---
 
 ## 🛠 Tools & Languages  
-**Languages:** Java, Python, Swift, SwiftUI, HTML, CSS, JavaScript, SQL (MySQL, SQLite)  
-**Tools & Frameworks:** Xcode, Git, GitHub, Swing, VS Code  
-**Other Skills:** Responsive design, Accessibility (a11y) best practices, REST API integration, Data visualization
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)  
+![SwiftUI](https://img.shields.io/badge/SwiftUI-%23007AFF.svg?style=for-the-badge&logo=swift&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 
 ---
 
