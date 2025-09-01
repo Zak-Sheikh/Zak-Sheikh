@@ -40,7 +40,7 @@ I enjoy taking projects from concept to deployment, with a focus on **user exper
 - 🚀 **Deployed** multiple fully functional projects to production using modern dev tools & GitHub Pages.  
 - 📱 **Designed & launched** a native iOS fitness app with persistent storage and an interactive UI.  
 - 🌐 **Built & optimized** a marketing website for a housing services business, improving accessibility, mobile performance, and SEO.  
-- 💡 Recognized for creating user-friendly interfaces and efficient backend and systems solutions that balance performance with maintainability.
+- 💡 **Recognized** for creating user-friendly interfaces and efficient backend and systems solutions that balance performance with maintainability.
 
 ---
 
