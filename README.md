@@ -27,6 +27,11 @@ I enjoy taking projects from concept to deployment, with a focus on **user exper
 - [**GymBros App**](https://github.com/Zak-Sheikh/gymbros-app)  
   Native iOS app that lets users browse and save gym workouts by tapping on a body diagram. Built with Swift & SwiftUI. Includes workout detail views, persistent saved workouts, and swipe-to-delete.
 
+- [**Networking Echo Servers & Benchmarking**](https://github.com/Zak-Sheikh/network-echo)  
+  Multi-language TCP echo servers built in Python (threaded & asyncio) and C++ (POSIX sockets).  
+  Includes benchmarking client with latency (avg/p95) and throughput measurements (~0.09 ms RTT, ~172 MB/s).  
+  Packaged with Makefile, README, and benchmarks.md for reproducibility; compares concurrency models and performance tradeoffs.
+
 - [**Book Word Counter**](https://github.com/Zak-Sheikh/book-word-counter)  
   Java desktop GUI app that reads `.txt` files and counts word frequencies. Includes sorting logic, Swing-based interface, CSV export, and stop-word filtering.
 
